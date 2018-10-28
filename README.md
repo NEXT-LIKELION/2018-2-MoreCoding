@@ -22,12 +22,10 @@ JavaScript ES6을 비롯한 2015년 이후 쓰이는 최신 JavaScript를 공부
 - 10월 8일  : Component LifeCycle II / Axios / Ruby on Rails API Server
 - 10월 15일 : **휴강 (중간고사)**
 - 10월 22일 : **휴강 (중간고사)**
-- 10월 29일 : 전반기 범위 복습
-- 11월 5일  : 웹 개발 프로젝트 기획 발표
-- 11월 12일 : Firebase Authentication
-- 11월 19일 : Deploy
-- 11월 26일 : **휴강 (웹 개발 프로젝트)**
-- 12월 3일  : 웹 개발 프로젝트 최종 발표 & 웹 프로그래밍 심화반 종강
-- 12월 6일  : NEXT 1기 종강
-
-## 해커톤 (추후 추가 예정)
+- 10월 29일 : Vuetify / Vue Router
+- 11월 5일  : Firebase Auth / Deploy
+- 11월 12일 : **휴강 (해커톤 준비)**
+- 11월 19일 : **휴강 (해커톤 준비)**
+- 11월 26일 : 
+- 12월 3일  : 
+- 12월 6일  : NEXT 1기 정규 세션 종강식
