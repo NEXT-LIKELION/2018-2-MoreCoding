@@ -13,7 +13,7 @@ JavaScript ES6을 비롯한 2015년 이후 쓰이는 최신 JavaScript를 공부
 - 오프라인 강의: 2018-2 매주 월요일 (시험기간 제외, 장소 추후 공지)
 - 온라인 강의: 필요 시 추가
 
-## 커리큘럼 (예상)
+## 커리큘럼
 - 9월 3일   : 2학기 교육 전체 OT
 - 9월 10일  : Vue.js 기초 (Vue Instance, Basic Directives)
 - 9월 17일  : Components, Props, Event Listener
@@ -26,6 +26,6 @@ JavaScript ES6을 비롯한 2015년 이후 쓰이는 최신 JavaScript를 공부
 - 11월 5일  : Firebase Auth / Deploy
 - 11월 12일 : **휴강 (해커톤 준비)**
 - 11월 19일 : **휴강 (해커톤 준비)**
-- 11월 26일 : 
-- 12월 3일  : 
+- 11월 26일 : **휴강 (해커톤 준비)**
+- 12월 1-2일  : 해커톤 (장소 추후 공지)
 - 12월 6일  : NEXT 1기 정규 세션 종강식
